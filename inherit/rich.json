@@ -417,7 +417,8 @@
             "dsoftbus_feature_lnn_channel_rating = true",
             "dsoftbus_feature_lnn_lane_mgr = true",
             "dsoftbus_feature_lnn_lane_qos = true",
-            "dsoftbus_feature_lnn_frame = true"
+            "dsoftbus_feature_lnn_frame = true",
+            "dsoftbus_feature_disc_coap_custdata = true"
           ]
         },
         {
