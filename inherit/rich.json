@@ -1413,6 +1413,10 @@
           "features": []
         },
         {
+          "component": "hifhe",
+          "features": []
+        },
+        {
           "component": "optimized_routines",
           "features": []
         },
